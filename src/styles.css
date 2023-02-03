@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.productCard {
+  max-width: 300px;
+  width: 100%;
+  background-color: #e289e2;
+  color: #fff;
+  padding: 1rem;
+  margin: 0.5rem auto;
+}
+
+.productCard > * {
+  display: block;
+}
+
+.ProductCard button {
+  margin: 0.5 auto;
+}
